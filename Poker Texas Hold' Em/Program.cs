@@ -11,6 +11,7 @@ namespace Poker_Texas_Hold__Em
         static void Main(string[] args)
         {
             Console.WriteLine("¡Bienvenidos al Póker Texas Hold' Em!");
+            Console.ReadKey();
         }
     }
 }
